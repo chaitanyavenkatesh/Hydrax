@@ -1,0 +1,1004 @@
+.compi,
+.compi * {
+  box-sizing: border-box;
+}
+.compi {
+  background: #ffffff;
+  height: 5094px;
+  position: relative;
+}
+.frame {
+  background: linear-gradient(
+    101.52deg,
+    rgba(99, 117, 131, 1) 0%,
+    rgba(6, 6, 6, 1) 50%,
+    rgba(22, 26, 29, 1) 100%
+  );
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  overflow: hidden;
+}
+.img-8-1 {
+  width: 801px;
+  height: 801px;
+  position: absolute;
+  left: 720px;
+  top: 111px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.text-on-a-path {
+  background: linear-gradient(
+    90deg,
+    rgba(119, 135, 148, 1) 0%,
+    rgba(37, 42, 46, 1) 100%
+  );
+  border-radius: 0px;
+  width: 1440px;
+  height: 70px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.logo-2-1 {
+  width: 103px;
+  height: 75px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 103/75;
+}
+.toggle-button-elevated {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 99px;
+  height: 42px;
+  position: absolute;
+  left: 1325px;
+  top: 19px;
+}
+.content {
+  background: linear-gradient(
+    180deg,
+    rgba(99, 194, 124, 1) 0%,
+    rgba(47, 92, 59, 1) 100%
+  );
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: var(
+    --m3-elevation-light-1-box-shadow,
+    0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3)
+  );
+  overflow: hidden;
+}
+.state-layer {
+  padding: 10px 16px 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.label {
+  color: #f0f0f0;
+  text-align: left;
+  font-family: var(--m3-label-large-font-family, "Roboto-Medium", sans-serif);
+  font-size: var(--m3-label-large-font-size, 14px);
+  line-height: var(--m3-label-large-line-height, 20px);
+  letter-spacing: var(--m3-label-large-letter-spacing, 0.1px);
+  font-weight: var(--m3-label-large-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.text {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25.217390060424805px;
+  font-weight: 400;
+  position: absolute;
+  left: 561px;
+  top: 20px;
+}
+.hydrax {
+  background: linear-gradient(
+    100.17deg,
+    rgba(0, 255, 255, 1) 0%,
+    rgba(0, 153, 153, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "KumarOne-Regular", sans-serif;
+  font-size: 21.107412338256836px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 21px;
+}
+.img-1-1 {
+  width: 561px;
+  height: 561px;
+  position: absolute;
+  left: 1045px;
+  top: 389px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.img-2-1 {
+  width: 696px;
+  height: 696px;
+  position: absolute;
+  left: 641px;
+  top: 278px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.the-fire-water-and-the-earth-three-spectaculer-power-where-the-world-come-to-an-end {
+  color: #00ffff;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 32px;
+  line-height: 140%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 60px;
+  top: 502px;
+}
+.hydra-of-lerna {
+  background: linear-gradient(
+    180deg,
+    rgba(230, 255, 155, 1) 0%,
+    rgba(255, 103, 27, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "KumarOne-Regular", sans-serif;
+  font-size: 96px;
+  line-height: 0undefined;
+  font-weight: 400;
+  position: absolute;
+  left: 75px;
+  top: 239px;
+}
+.hydra-of-lerna-span {
+}
+.hydra-of-lerna-span2 {
+  line-height: 125px;
+}
+.home-cards-games {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25.217390060424805px;
+  font-weight: 400;
+  position: absolute;
+  left: 487px;
+  top: 22px;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 900px;
+  overflow: hidden;
+}
+.page-2 {
+  width: 1440px;
+  height: 900px;
+  position: static;
+}
+.desktop-3 {
+  background: linear-gradient(
+    101.52deg,
+    rgba(99, 117, 131, 1) 0%,
+    rgba(6, 6, 6, 1) 50%,
+    rgba(22, 26, 29, 1) 100%
+  );
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+  left: 100px;
+  top: 2089px;
+  overflow: hidden;
+}
+.text-on-a-path2 {
+  background: linear-gradient(
+    90deg,
+    rgba(119, 135, 148, 1) 0%,
+    rgba(37, 42, 46, 1) 100%
+  );
+  border-radius: 0px;
+  width: 1440px;
+  height: 75px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.text2 {
+  background: linear-gradient(
+    180deg,
+    rgba(221, 221, 221, 1) 0%,
+    rgba(119, 119, 119, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 96.62744903564453px;
+  font-weight: 600;
+  position: absolute;
+  left: 96px;
+  top: 325px;
+}
+.content2 {
+  background: linear-gradient(
+    181.22deg,
+    rgba(47, 92, 59, 1) 0%,
+    rgba(99, 194, 124, 1) 100%
+  );
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: var(
+    --m3-elevation-light-1-box-shadow,
+    0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3)
+  );
+  overflow: hidden;
+}
+.label2 {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: var(--m3-label-large-font-family, "Roboto-Medium", sans-serif);
+  font-size: var(--m3-label-large-font-size, 14px);
+  line-height: var(--m3-label-large-line-height, 20px);
+  letter-spacing: var(--m3-label-large-letter-spacing, 0.1px);
+  font-weight: var(--m3-label-large-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.home-cards-games2 {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25.217390060424805px;
+  font-weight: 400;
+  position: absolute;
+  left: 447px;
+  top: 22px;
+}
+.rectangle-5 {
+  background: linear-gradient(
+    180deg,
+    rgba(22, 23, 24, 1) 0%,
+    rgba(135, 150, 166, 1) 100%
+  );
+  border-radius: 89px;
+  width: 436px;
+  height: 762px;
+  position: absolute;
+  left: 51px;
+  top: 96px;
+}
+.rectangle-11 {
+  border-radius: 0px;
+  width: 427px;
+  height: 781px;
+  position: absolute;
+  left: 525px;
+  top: 96px;
+  overflow: visible;
+}
+.rectangle-12 {
+  border-radius: 0px;
+  width: 449px;
+  height: 781px;
+  position: absolute;
+  left: 976px;
+  top: 96px;
+  overflow: visible;
+}
+.image {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 185px;
+  top: 743px;
+  overflow: hidden;
+}
+.img-2-2 {
+  width: 422px;
+  height: 422px;
+  position: absolute;
+  left: 58px;
+  top: 486px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.img-7-1 {
+  width: 379.91px;
+  height: 379.91px;
+  position: absolute;
+  left: 548px;
+  top: 520px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.img-3-1 {
+  width: 398px;
+  height: 382px;
+  position: absolute;
+  left: 1009px;
+  top: 506px;
+  object-fit: cover;
+  aspect-ratio: 398/382;
+}
+.hydra-of-lerna-is-one-of-the-hydra-creature-more-often-known-simply-as-the-hydra-hydra-has-mission-to-save-the-earth-as-per-greek-methology-and-roman-methology {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.5473690032959px;
+  font-weight: 400;
+  position: absolute;
+  left: 84px;
+  top: 312px;
+  width: 403.24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hydra-of-lerna-is-one-of-the-hydra-creature-more-often-known-simply-as-the-hydra-hydra-has-mission-to-save-the-earth-as-per-greek-methology-and-roman-methology2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.5473690032959px;
+  font-weight: 400;
+  position: absolute;
+  left: 551px;
+  top: 312px;
+  width: 403.24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hydra-of-lerna-is-one-of-the-hydra-creature-more-often-known-simply-as-the-hydra-hydra-has-mission-to-save-the-earth-as-per-greek-methology-and-roman-methology3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.5473690032959px;
+  font-weight: 400;
+  position: absolute;
+  left: 1045px;
+  top: 312px;
+  width: 403.24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hydra {
+  background: linear-gradient(
+    180deg,
+    rgba(232, 93, 4, 0.92) 0%,
+    rgba(197, 197, 197, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 175px;
+  width: 389px;
+  height: 98.08px;
+}
+.spear {
+  background: linear-gradient(
+    180deg,
+    rgba(252, 255, 0, 1) 0%,
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 548px;
+  top: 175px;
+  width: 389px;
+  height: 101px;
+}
+.daira {
+  background: linear-gradient(
+    180deg,
+    rgba(232, 93, 4, 0.92) 0%,
+    rgba(197, 197, 197, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 1018px;
+  top: 170px;
+  width: 389px;
+  height: 98.08px;
+}
+.page-4 {
+  width: 1440px;
+  height: 900px;
+  position: static;
+}
+.desktop-32 {
+  background: linear-gradient(
+    101.52deg,
+    rgba(22, 26, 29, 1) 0%,
+    rgba(6, 6, 6, 1) 50%,
+    rgba(99, 117, 131, 1) 100%
+  );
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+  left: 100px;
+  top: 1122px;
+  overflow: hidden;
+}
+
+.label3 {
+  color: #f1f1f1;
+  text-align: left;
+  font-family: var(--m3-label-large-font-family, "Roboto-Medium", sans-serif);
+  font-size: var(--m3-label-large-font-size, 14px);
+  line-height: var(--m3-label-large-line-height, 20px);
+  letter-spacing: var(--m3-label-large-letter-spacing, 0.1px);
+  font-weight: var(--m3-label-large-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.home-cards-games3 {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25.217390060424805px;
+  font-weight: 400;
+  position: absolute;
+  left: 561px;
+  top: 20px;
+}
+.rectangle-52 {
+  border-radius: 0px;
+  width: 1538px;
+  height: 1765px;
+  position: absolute;
+  left: -49px;
+  top: -282px;
+  overflow: visible;
+}
+.img-2-22 {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  left: 0px;
+  top: 450px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.img-7-12 {
+  width: 462px;
+  height: 462px;
+  position: absolute;
+  left: 495px;
+  top: 467px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.img-3-12 {
+  width: 519px;
+  height: 519px;
+  position: absolute;
+  left: 932px;
+  top: 461px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.explore-character-you-love {
+  color: #e85d04;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 70px;
+  top: 145px;
+  width: 1303px;
+}
+.download-the-game-of-your-favourite-character {
+  color: #c5c5c5;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 504px;
+  top: 221px;
+  width: 405px;
+}
+.logo-2-12 {
+  width: 96px;
+  height: 70px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 96/70;
+}
+.hydra2 {
+  background: linear-gradient(
+    180deg,
+    rgba(232, 93, 4, 0.92) 0%,
+    rgba(197, 197, 197, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 344px;
+  width: 460px;
+  height: 79px;
+}
+.spear2 {
+  background: linear-gradient(
+    180deg,
+    rgba(252, 255, 0, 1) 0%,
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 532px;
+  top: 344px;
+  width: 389px;
+  height: 98.08px;
+}
+.daira2 {
+  background: linear-gradient(
+    180deg,
+    rgba(232, 93, 4, 0.92) 0%,
+    rgba(197, 197, 197, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 986px;
+  top: 344px;
+  width: 389px;
+  height: 98.08px;
+}
+.home-cards-games4 {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25.217390060424805px;
+  font-weight: 400;
+  position: absolute;
+  left: 477px;
+  top: 19px;
+}
+.toggle-button-elevated2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 99px;
+  height: 42px;
+  position: absolute;
+  left: 1324px;
+  top: 20px;
+}
+.desktop-4 {
+  background: linear-gradient(
+    101.52deg,
+    rgba(99, 117, 131, 1) 0%,
+    rgba(6, 6, 6, 1) 50%,
+    rgba(22, 26, 29, 1) 100%
+  );
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+  left: 112px;
+  top: 4094px;
+  overflow: hidden;
+}
+.hydrax2 {
+  color: #00ffff;
+  text-align: left;
+  font-family: "KumarOne-Regular", sans-serif;
+  font-size: 21.107412338256836px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 21px;
+}
+.rectangle-53 {
+  background: linear-gradient(
+    180deg,
+    rgba(22, 23, 24, 1) 0%,
+    rgba(135, 150, 166, 1) 100%
+  );
+  border-radius: 89px;
+  width: 1345px;
+  height: 1007px;
+  position: absolute;
+  left: 222px;
+  top: -1180px;
+}
+.text-on-a-path3 {
+  border-radius: 0px;
+  width: 949px;
+  height: 1019px;
+  position: absolute;
+  left: -52px;
+  top: 95px;
+  object-fit: cover;
+}
+.games-of-hydra {
+  color: #ffffff;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 732px;
+  top: 250px;
+  width: 599px;
+  height: 175px;
+}
+.now-available-on-play-store {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--static-label-large-font, "Roboto-Medium", sans-serif);
+  font-size: 22.399999618530273px;
+  line-height: 32px;
+  letter-spacing: 0.16px;
+  font-weight: 500;
+  position: absolute;
+  left: 867px;
+  top: 471px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1 {
+  width: 973px;
+  height: 842px;
+  position: absolute;
+  left: -176px;
+  top: 35px;
+}
+.img-4-2 {
+  width: 896px;
+  height: 792px;
+  position: absolute;
+  left: 134px;
+  top: 77px;
+  object-fit: cover;
+  aspect-ratio: 896/792;
+}
+.img-2-23 {
+  width: 738px;
+  height: 722px;
+  position: absolute;
+  left: 192px;
+  top: 272px;
+  object-fit: cover;
+  aspect-ratio: 738/722;
+}
+.img-6-2 {
+  width: 587px;
+  height: 587px;
+  position: absolute;
+  left: 369px;
+  top: 442px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.img-7-3 {
+  width: 924px;
+  height: 924px;
+  position: absolute;
+  left: -411px;
+  top: 426px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.home-cards-games5 {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25.217390060424805px;
+  font-weight: 400;
+  position: absolute;
+  left: 403px;
+  top: 13px;
+  width: 553px;
+  height: 25px;
+}
+.toggle-button-elevated3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 99px;
+  height: 42px;
+  position: absolute;
+  left: 1331px;
+  top: 14px;
+}
+.page-3 {
+  width: 1440px;
+  height: 900px;
+  position: static;
+}
+.desktop-33 {
+  background: linear-gradient(
+    101.52deg,
+    rgba(99, 117, 131, 1) 0%,
+    rgba(6, 6, 6, 1) 50%,
+    rgba(22, 26, 29, 1) 100%
+  );
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+  left: 100px;
+  top: 3056px;
+  overflow: hidden;
+}
+.home-cards-games6 {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25.217390060424805px;
+  font-weight: 400;
+  position: absolute;
+  left: 449px;
+  top: 25px;
+  width: 553px;
+  height: 25px;
+}
+.rectangle-54 {
+  background: linear-gradient(
+    180deg,
+    rgba(22, 23, 24, 1) 0%,
+    rgba(135, 150, 166, 1) 100%
+  );
+  border-radius: 89px;
+  width: 436px;
+  height: 774px;
+  position: absolute;
+  left: 51px;
+  top: 96px;
+}
+.rectangle-112 {
+  background: linear-gradient(
+    180deg,
+    rgba(135, 150, 166, 1) 0%,
+    rgba(22, 23, 24, 1) 100%
+  );
+  border-radius: 89px;
+  width: 436px;
+  height: 764px;
+  position: absolute;
+  left: 513px;
+  top: 106px;
+}
+.rectangle-122 {
+  background: linear-gradient(
+    180deg,
+    rgba(22, 23, 24, 1) 0%,
+    rgba(135, 150, 166, 1) 100%
+  );
+  border-radius: 89px;
+  width: 436px;
+  height: 774px;
+  position: absolute;
+  left: 976px;
+  top: 96px;
+}
+.hydra-of-lerna-is-one-of-the-hydra-creature-more-often-known-simply-as-the-hydra-hydra-has-mission-to-save-the-earth-as-per-greek-methology-and-roman-methology4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.5473690032959px;
+  font-weight: 400;
+  position: absolute;
+  left: 84px;
+  top: 322px;
+  width: 403.24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hydra-of-lerna-is-one-of-the-hydra-creature-more-often-known-simply-as-the-hydra-hydra-has-mission-to-save-the-earth-as-per-greek-methology-and-roman-methology5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.5473690032959px;
+  font-weight: 400;
+  position: absolute;
+  left: 560px;
+  top: 322px;
+  width: 403px;
+  height: 163px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hydra-of-lerna-is-one-of-the-hydra-creature-more-often-known-simply-as-the-hydra-hydra-has-mission-to-save-the-earth-as-per-greek-methology-and-roman-methology6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.5473690032959px;
+  font-weight: 400;
+  position: absolute;
+  left: 1024px;
+  top: 294px;
+  width: 403px;
+  height: 168px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pisco {
+  background: linear-gradient(
+    180deg,
+    rgba(232, 93, 4, 0.92) 0%,
+    rgba(197, 197, 197, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 173px;
+  width: 389px;
+  height: 121px;
+}
+.toave {
+  background: linear-gradient(
+    186.29deg,
+    rgba(222, 226, 76, 0.92) 0%,
+    rgba(197, 197, 197, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 531px;
+  top: 173px;
+  width: 389px;
+}
+.lerna {
+  background: linear-gradient(
+    180deg,
+    rgba(232, 93, 4, 0.92) 0%,
+    rgba(197, 197, 197, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "GravitasOne-Regular", sans-serif;
+  font-size: 79.79486846923828px;
+  font-weight: 400;
+  position: absolute;
+  left: 981px;
+  top: 173px;
+  width: 389px;
+  height: 98.08px;
+}
+.img-6-1 {
+  width: 462px;
+  height: 442px;
+  position: absolute;
+  left: 47px;
+  top: 458px;
+  object-fit: cover;
+  aspect-ratio: 462/442;
+}
+.img-4-1 {
+  width: 443px;
+  height: 420px;
+  position: absolute;
+  left: 985px;
+  top: 462px;
+  object-fit: cover;
+  aspect-ratio: 443/420;
+}
+.img-8-2 {
+  width: 423px;
+  height: 388px;
+  position: absolute;
+  left: 531px;
+  top: 508px;
+  object-fit: cover;
+  aspect-ratio: 423/388;
+}
+.home-cards-games,
+.home-cards-games2,
+.home-cards-games3,
+.home-cards-games4,
+.home-cards-games5,
+.home-cards-games6 {
+  word-spacing: 40px; /* adjust the gap */
+}
+
