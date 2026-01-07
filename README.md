@@ -58,7 +58,7 @@ This project is optimized for desktop viewing and was developed within competiti
 **Chaitanya V** - Frontend Developer
 - LinkedIn:Chaitanya V (https://linkedin.com/in/chaitanya-v-531470363)
   
-**Sanjana V** - UI/UX Designer
+**Sanjana S** - UI/UX Designer
 
 ## 🤝 Connect
 Interested in collaboration or discussing this project? Feel free to reach out!
