@@ -59,7 +59,7 @@ This project is optimized for desktop viewing and was developed within competiti
 - LinkedIn:Chaitanya V (https://linkedin.com/in/chaitanya-v-531470363)
   
 **Sanjana S** - UI/UX Designer
-
+- Email: sanjanapika1619@gmail.com
 ## 🤝 Connect
 Interested in collaboration or discussing this project? Feel free to reach out!
 
